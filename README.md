@@ -1,2 +1,2 @@
 # meucurriculo
-https://github.com/gabrieldantas07/meucurriculo.git
+https://gabrieldantas07.github.io/meucurriculo/
